@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Petevii7
-- 👀 I’m interested in ... Cyber Security!
-- 🌱 I’m currently learning ... at The Flatiron School
-- 💞️ I’m looking to collaborate on ... entry level projects
+- 👀 I’m interested in ... Cyber Security
 - 📫 How to reach me ... linkedin.com/petertreacy7
 
 <!---
